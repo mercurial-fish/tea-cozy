@@ -1,0 +1,29 @@
+header {
+    background-color: black;
+    color: white;
+}
+
+main {
+    background-image: url("./img-mission-background.jpeg");
+    height: 700px;
+    width: 1200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div {
+    background-color: black;
+    color: white;
+}
+
+.featured-tea img {
+    height: 200px;
+    width: 300px;
+}
+
+.locations {
+    background-image: url(./img-locations-background.jpeg);
+    height: 500px;
+    width: 1200px;
+}

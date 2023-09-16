@@ -1,0 +1,1 @@
+This is a project from CodeCademy. I have been tasked with making a website for a fictional tea shop. They have provided images and design specs.
